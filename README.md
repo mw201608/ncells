@@ -3,8 +3,5 @@ Calculating the number of cells in single cell RNA-seq experiments
 
 To install,
 ```
-> library('devtools')
-> install_github('TheJacksonLaboratory/ncells')
-> library('ncells')
-
+devtools::install_github('mw201608/ncells')
 ```
